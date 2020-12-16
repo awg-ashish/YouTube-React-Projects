@@ -1,6 +1,7 @@
 import firebase from "firebase/app";
 import "firebase/firestore";
 
+//Enter your firebase config details here. These details won't work
 const firebaseConfig = {
   apiKey: "AIzaSyBrYfONNx4_EGjk-dBsI-KSmrSDgM-zxLw",
   authDomain: "todo-app-c12e1.firebaseapp.com",
